@@ -62,3 +62,7 @@ footer {
 a {
   text-decoration: none;
 }
+
+.back-link {
+  line-height: 2.5;
+}
